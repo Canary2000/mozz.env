@@ -29,7 +29,7 @@ importers:
         version: 'link:'
       poku:
         specifier: ^1.9.3
-        version: 1.20.0
+        version: 1.20.1
       tsx:
         specifier: ^4.7.2
         version: 4.15.7
@@ -201,8 +201,8 @@ packages:
   get-tsconfig@4.7.5:
     resolution: {integrity: sha512-ZCuZCnlqNzjb4QprAzXKdpp/gh6KTxSJuw3IBsPnV/7fV4NxC9ckB+vPTt8w7fJA0TaSD7c55BR47JD6MEDyDw==}
 
-  poku@1.20.0:
-    resolution: {integrity: sha512-fUAcPrjYmu43IkC3UOuLNh2bAfoz5ygEJ4RJ7ecA6dQz9nmAlZKAhi/Sq4n+eAMbBJC9TCKiSF9092cIVEPk6g==}
+  poku@1.20.1:
+    resolution: {integrity: sha512-VToRIri1HCLA663AP9LbsLx97EykJ+c4r8gD+4uivR7oYenMprXSOV4Yvgi0BACedHQOXEW1H6jB73T/OU4Ktg==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -342,7 +342,7 @@ snapshots:
     dependencies:
       resolve-pkg-maps: 1.0.0
 
-  poku@1.20.0: {}
+  poku@1.20.1: {}
 
   resolve-pkg-maps@1.0.0: {}
 
